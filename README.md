@@ -40,8 +40,3 @@ At the end of the study, I created a simple banking application. The user can in
 
 This exercise helped consolidate my understanding of loops and control flow, while also introducing the concept of state in a simple application.
 
-## Como executar o projeto / How to run the project
-
-### Clone este repositório / Clone this repository:
-```bash
-git clone https://github.com/seu-usuario/repositorio-estudos-java.git
