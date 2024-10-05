@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Banco.executor": "Run",
     "Application.Condicional.executor": "Run",
     "Application.Leitura.executor": "Run",
     "Application.Loop.executor": "Run",
@@ -43,7 +44,14 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Banco">
+    <configuration name="Banco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Banco" />
+      <module name="CyberTheater" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OutroLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OutroLoop" />
       <module name="CyberTheater" />
@@ -53,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Banco" />
         <item itemvalue="Application.OutroLoop" />
       </list>
     </recent_temporary>
